@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Create a new branch is quick.
 Fixed conflict.
 Learn git.
+Fast forward merge lost branch info. 
